@@ -14,7 +14,7 @@ A Mario themed MS Paint clone.
 
 ## Live Demo
 
-Try the application live at [https://mariograffiti.evelynpei.com/](https://mariograffiti.evelynpei.com/)
+Try the application live at [https://mariograffiti.connorashlock.com/](https://mariograffiti.connorashlock.com/)
 
 ## Features
 
