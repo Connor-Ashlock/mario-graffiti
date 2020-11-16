@@ -1,4 +1,4 @@
-# mintbean-graffiti
+# mario-graffiti
 
 A Mario themed MS Paint clone.
 
